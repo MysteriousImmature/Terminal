@@ -1,1 +1,3 @@
 # Terminal
+
+Terminal Style
